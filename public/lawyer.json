@@ -1,0 +1,228 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-photo/front-view-business-woman-wearing-glasses_23-2148692775.jpg",
+      "name": "Adv. Sarah Mitchell",
+      "education": {
+        "field": "JD, LLM",
+        "institution": "Harvard Law School"
+      },
+      "speciality": "Corporate Law",
+      "experience": "15+",
+      "registration": "Bar No: NY 124512540",
+      "availability": ["Monday", "Tuesday", "Thursday", "Friday"],
+      "works": "Mitchell & Partners LLP",
+      "fee": "Taka : 1100"
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-photo/lawyer-talking_23-2147984039.jpg",
+      "name": "Adv. James Carter",
+      "education": {
+        "field": "JD",
+        "institution": "Yale Law School"
+      },
+      "speciality": "Criminal Defense",
+      "experience": "12+",
+      "registration": "Bar No: IN 456789210",
+      "availability": ["Tuesday", "Wednesday", "Saturday"],
+      "works": "Carter Legal Chambers",
+      "fee": "Taka : 1300"
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-photo/happy-young-businesswoman-writing-clipboard-with-pen_23-2147972827.jpg",
+      "name": "Adv. Anjali Deshmukh",
+      "education": {
+        "field": "LLB, LLM",
+        "institution": "Delhi University"
+      },
+      "speciality": "Family Law",
+      "experience": "10+",
+      "registration": "Bar No: IN 558899440",
+      "availability": ["Monday", "Wednesday", "Friday"],
+      "works": "Deshmukh Legal Services",
+      "fee": "Taka : 900"
+    },
+    {
+      "id": 4,
+      "image": "https://img.freepik.com/free-photo/arrogant-handsome-young-businessman-adjusting-tie_1262-4677.jpg",
+      "name": "Adv. Mahmudul Hassan",
+      "education": {
+        "field": "LLB, LLM",
+        "institution": "University of Dhaka"
+      },
+      "speciality": "Civil Litigation",
+      "experience": "8+",
+      "registration": "Bar No: BD 789654321",
+      "availability": ["Sunday", "Tuesday", "Thursday"],
+      "works": "Dhaka High Court",
+      "fee": "Taka : 1000"
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-photo/short-haired-man-business-suit-carrying-two-registers_549566-318.jpg",
+      "name": "Adv. Mario Gonzalez",
+      "education": {
+        "field": "JD",
+        "institution": "Stanford Law School"
+      },
+      "speciality": "Immigration Law",
+      "experience": "11+",
+      "registration": "Bar No: IN 336541290",
+      "availability": ["Monday", "Thursday", "Saturday"],
+      "works": "Gonzalez Legal Firm",
+      "fee": "Taka : 1050"
+    },
+    {
+      "id": 6,
+      "image": "https://img.freepik.com/free-photo/smiley-business-woman-writing-clipboard_23-2148480427.jpg",
+      "name": "Adv. Sabrina Islam",
+      "education": {
+        "field": "LLB",
+        "institution": "University of London (External)"
+      },
+      "speciality": "Intellectual Property Law",
+      "experience": "9+",
+      "registration": "Bar No: BD 567123876",
+      "availability": ["Sunday", "Tuesday", "Friday"],
+      "works": "IP Rights Chamber, Dhaka",
+      "fee": "Taka : 1200"
+    },
+    {
+      "id": 7,
+      "image": "https://img.freepik.com/free-photo/modern-office-composition-with-businessman_23-2147900145.jpg",
+      "name": "Adv. Tanvir Ahmed",
+      "education": {
+        "field": "LLB, PGDL",
+        "institution": "Northumbria University"
+      },
+      "speciality": "Employment Law",
+      "experience": "7+",
+      "registration": "Bar No: BD 998812345",
+      "availability": ["Monday", "Wednesday", "Saturday"],
+      "works": "Ahmed Legal Consultants",
+      "fee": "Taka : 950"
+    },
+    {
+      "id": 8,
+      "image": "https://img.freepik.com/free-photo/side-view-smiley-female-judge-with-gavel_23-2148453378.jpg",
+      "name": "Adv. Julia Fernandez",
+      "education": {
+        "field": "JD",
+        "institution": "Yale Law School"
+      },
+      "speciality": "Mental Health & Disability Law",
+      "experience": "13+",
+      "registration": "Bar No: US 456780001",
+      "availability": ["Tuesday", "Thursday", "Friday"],
+      "works": "Fernandez Legal Aid Services",
+      "fee": "Taka : 1400"
+    },
+    {
+      "id": 9,
+      "image": "https://img.freepik.com/free-photo/middle-aged-business-woman-her-office-smart-woman_482257-25807.jpg",
+      "name": "Adv. Nabila Yasmin",
+      "education": {
+        "field": "LLB, LLM",
+        "institution": "National Law University, India"
+      },
+      "speciality": "Human Rights Law",
+      "experience": "10+",
+      "registration": "Bar No: BD 445667890",
+      "availability": ["Monday", "Wednesday", "Friday"],
+      "works": "Yasmin Legal Advocacy Group",
+      "fee": "Taka : 1000"
+    },
+    {
+      "id": 10,
+      "image": "https://img.freepik.com/free-photo/businessman-formal-wear-professional-corporate-concept_53876-71166.jpg",
+      "name": "Adv. Adnan Rahman",
+      "education": {
+        "field": "LLB",
+        "institution": "University of Chittagong"
+      },
+      "speciality": "Banking & Finance Law",
+      "experience": "8+",
+      "registration": "Bar No: BD 334455667",
+      "availability": ["Sunday", "Tuesday", "Thursday"],
+      "works": "Rahman & Associates",
+      "fee": "Taka : 1100"
+    },
+    {
+      "id": 11,
+      "image": "https://img.freepik.com/free-photo/portrait-happy-smiling-business-woman-with-black-folder-isolated-white-wall_231208-8620.jpg",
+      "name": "Adv. Mehnaz Rahimi",
+      "education": {
+        "field": "LLB",
+        "institution": "Bangladesh Open University"
+      },
+      "speciality": "Tax Law",
+      "experience": "9+",
+      "registration": "Bar No: BD 554433221",
+      "availability": ["Monday", "Wednesday", "Friday"],
+      "works": "Rahimi Legal & Tax Advisors",
+      "fee": "Taka : 1050"
+    },
+    {
+      "id": 12,
+      "image": "https://img.freepik.com/free-photo/happy-business-woman-using-tablet_23-2148095693.jpg",
+      "name": "Adv. Farhana Alam",
+      "education": {
+        "field": "LLB",
+        "institution": "Chittagong Law College"
+      },
+      "speciality": "Environmental Law",
+      "experience": "6+",
+      "registration": "Bar No: BD 667788990",
+      "availability": ["Tuesday", "Thursday", "Saturday"],
+      "works": "Green Legal Advocates",
+      "fee": "Taka : 950"
+    },
+    {
+      "id": 13,
+      "image": "https://img.freepik.com/free-photo/closeup-smiling-business-leader-sitting-table_1262-4841.jpg",
+      "name": "Adv. Rezaul Karim",
+      "education": {
+        "field": "LLB, LLM",
+        "institution": "Rajshahi University"
+      },
+      "speciality": "Real Estate Law",
+      "experience": "10+",
+      "registration": "Bar No: BD 112244889",
+      "availability": ["Sunday", "Monday", "Thursday"],
+      "works": "Karim Law Associates",
+      "fee": "Taka : 990"
+    },
+    {
+      "id": 14,
+      "image": "https://img.freepik.com/free-photo/smiling-young-pleased-businessman-offering-book_23-2148113015.jpg",
+      "name": "Adv. Amit Roy",
+      "education": {
+        "field": "LLB",
+        "institution": "East West University"
+      },
+      "speciality": "Contract Law",
+      "experience": "7+",
+      "registration": "Bar No: BD 221133774",
+      "availability": ["Monday", "Tuesday", "Friday"],
+      "works": "Roy Legal Solutions",
+      "fee": "Taka : 930"
+    },
+    {
+      "id": 15,
+      "image": "https://img.freepik.com/free-photo/medium-shot-woman-working-as-lawyer_23-2151152095.jpg",
+      "name": "Adv. Tania Rahman",
+      "education": {
+        "field": "LLB, Bar-at-Law",
+        "institution": "Lincoln’s Inn, UK"
+      },
+      "speciality": "Constitutional Law",
+      "experience": "12+",
+      "registration": "Bar No: UK 314159265",
+      "availability": ["Wednesday", "Thursday", "Saturday"],
+      "works": "Rahman Constitutional Law Office",
+      "fee": "Taka : 1150"
+    }
+  ]
+  

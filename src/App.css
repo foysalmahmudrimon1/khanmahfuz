@@ -1,0 +1,75 @@
+
+
+/* কার্ড হোভার বর্ডার গ্লো */
+@keyframes borderGlow {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 102, 0, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 20px 4px rgba(255, 102, 0, 0.6);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 102, 0, 0.3);
+  }
+}
+
+.group-hover\\:animate-border-glow:hover {
+  animation: borderGlow 1.5s infinite;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+body{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    /* background-color: #FFF7ED; */
+    color: #0f0f0f9a
+}
+
+.my-container{
+    max-width: 1320px;
+    margin-inline: auto;
+    padding-inline: 20px;
+}
+
+.text-green{
+    color: #09982F;
+}
+.text-blue{
+  color: #176AE5;
+}
+.text-dark{
+  color: #0F0F0F;
+}
+.text-warning{
+  color: #FFA000;
+}
+.text-danger{
+  color: #FF0000;
+}
+.bg-blue{
+  background-color: #176AE5;
+}
+.navbtn{
+  border-bottom: 3px solid transparent;
+}
+
+.navbtn.active, .navbtn:active{
+  color: #A33302;
+  border:0;
+  border-radius: 0;
+  border-bottom: 3px solid #A33302;
+  background-color: transparent;
+}
+.flex-center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bannerBg{
+  background:url('../src/assets/banner-img-1.png');
+  background-position: center;
+  background-size: cover;
+}
